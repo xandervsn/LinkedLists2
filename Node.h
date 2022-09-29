@@ -1,3 +1,8 @@
+/* Uno (Wongspatt) Pasadhika 
+ * Linked Lists (part 1) - student and node classes 
+ * 9/29/2022 
+ */
+
 #include <iostream>
 #include <cstring>
 

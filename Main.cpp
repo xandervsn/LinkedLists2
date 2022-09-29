@@ -1,7 +1,10 @@
+// Header is in Node.h 
+
 #include "Node.h"
 
 using namespace std;
 
+// Print the linked list fromt the first node 
 void printList(Node* n) {
   while (n != nullptr) {
     Student* s = n->getStudent();
